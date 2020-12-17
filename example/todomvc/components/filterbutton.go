@@ -1,14 +1,14 @@
 package components
 
 import (
-	"github.com/gopherjs/vecty"
-	"github.com/gopherjs/vecty/elem"
-	"github.com/gopherjs/vecty/event"
-	"github.com/gopherjs/vecty/example/todomvc/actions"
-	"github.com/gopherjs/vecty/example/todomvc/dispatcher"
-	"github.com/gopherjs/vecty/example/todomvc/store"
-	"github.com/gopherjs/vecty/example/todomvc/store/model"
-	"github.com/gopherjs/vecty/prop"
+	"github.com/ezbuy/vecty"
+	"github.com/ezbuy/vecty/elem"
+	"github.com/ezbuy/vecty/event"
+	"github.com/ezbuy/vecty/example/todomvc/actions"
+	"github.com/ezbuy/vecty/example/todomvc/dispatcher"
+	"github.com/ezbuy/vecty/example/todomvc/store"
+	"github.com/ezbuy/vecty/example/todomvc/store/model"
+	"github.com/ezbuy/vecty/prop"
 )
 
 // FilterButton is a vecty.Component which allows the user to select a filter

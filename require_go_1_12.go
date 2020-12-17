@@ -4,7 +4,7 @@ package vecty
 
 // Typechecking will pass except one error:
 //
-// 	# github.com/gopherjs/vecty
+// 	# github.com/ezbuy/vecty
 // 	../../require_go_1_12.go:7:2: undefined: VECTY_REQUIRES_GO_1_12_PLUS
 //
 
